@@ -11,7 +11,7 @@ We recieve the HTML and getthe appropriate JSON data required for creating folde
 
 ### <ins>PDF for Each Match for Respective Team</ins>
 <img src="https://user-images.githubusercontent.com/33955028/140860697-bbcf1880-b309-4feb-a53c-aaff4543e29a.png" width="550" height="250">
-_(Data shown are the matches played by Team INDIA)_
+(*Data shown are the matches played by Team INDIA)*
 
 ## Local Setup
 ### <ins>Pre-requisites</ins>
