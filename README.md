@@ -3,7 +3,7 @@
 ## Description
 This web-app extracts information of matches from the website [CricInfo](www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results) and then creates folder for each team with pdfs for every match played by the respective team.
 
-We recieve the HTML and getthe appropriate JSON data required for creating folders and pdfs. After JSON from website we create our own JSON with keeping teams as the main object and from there we create files and then pdfs that hold record of the match.
+We recieve the HTML and get the appropriate JSON data required for creating folders and pdfs. After JSON from website we create our own JSON with keeping teams as the main object and from there we create files and then pdfs (using the [template.pdf](https://github.com/blank0826/Mini-Web-Apps/blob/master/Cric-Info%20Extractor/Template.pdf)) that hold record of the match.
 
 ## Screenshots
 ### <ins>Folders of Each Team</ins>
@@ -15,7 +15,7 @@ We recieve the HTML and getthe appropriate JSON data required for creating folde
 *(Data shown are the matches played by Team INDIA)*
 
 ### <ins>PDF for Match IND V/S AFG</ins>
-<img src="https://user-images.githubusercontent.com/33955028/140863355-be499d91-e3ec-4b37-98cb-8f068dd22eb2.png" width="600" height="250">
+<img src="https://user-images.githubusercontent.com/33955028/140863355-be499d91-e3ec-4b37-98cb-8f068dd22eb2.png" width="500" height="250">
 
 ## Local Setup
 ### <ins>Pre-requisites</ins>
