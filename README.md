@@ -1,9 +1,9 @@
 # <ins>Mini-Web-Apps</ins>
 # A. Cric-Info Extractor
 ## Description
-This web-app extracts information of matches from the website [CricInfo](www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results) and then creates folder for each team with pdfs for every match played by the respective team.
+This web app extracts information of matches from the website [CricInfo](https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results) and then creates a folder for each team with pdfs for every match played by the respective team.
 
-We recieve the HTML and get the appropriate JSON data required for creating folders and pdfs. After JSON from website we create our own JSON with keeping teams as the main object and from there we create files and then pdfs (using the [template.pdf](https://github.com/blank0826/Mini-Web-Apps/blob/master/Cric-Info%20Extractor/Template.pdf)) that hold record of the match.
+We receive the HTML and get the appropriate JSON data required for creating folders and pdfs. After JSON from the website we create our JSON with keeping teams as the main object and from there, we create files and then pdfs (using the [template.pdf](https://github.com/blank0826/Mini-Web-Apps/blob/master/Cric-Info%20Extractor/Template.pdf)) that hold the record of the match.
 
 ## Screenshots
 ### <ins>Folders of Each Team</ins>
@@ -36,7 +36,7 @@ npm init
 
 # B. Hackerrank Automation
 ## Description
-This web-app is an automation to add moderators to your competetion using **puppeteer**. This logs in to your Hackerrank account and will add a moderator to all the competetions created by you.
+This web app is automated to add moderators to your competition using **puppeteer**. This logs into your Hackerrank account and will add a moderator to all the competitions created by you.
 
 ## Local Setup
 ### <ins>Pre-requisites</ins>
@@ -52,7 +52,7 @@ npm init
 
    This will get all your required modules.<br />
 
-3. In the config.json enter you own details in the form
+3. In the config.json enter your own details in the form
 ```
 {
     "userid": "youremail@example.com",
@@ -60,7 +60,7 @@ npm init
     "moderator": "hackerrankID_moderator"
 }
 ```
-4. Run [automation.js](https://github.com/blank0826/Mini-Web-Apps/blob/master/HackerrankAutomation/automation.js), this will open the browser show you logging in and will add all competetions with your mentioned moderator.
+4. Run [automation.js](https://github.com/blank0826/Mini-Web-Apps/blob/master/HackerrankAutomation/automation.js), this will open the browser show you logging in and will add all competitions with your mentioned moderator.
 
 # Contact
 ## [Aditya Srivastava](mailto:aditya26052002@gmail.com?subject=GitHub)
