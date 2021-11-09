@@ -5,6 +5,8 @@ This web app extracts information of matches from the website [CricInfo](https:/
 
 We receive the HTML and get the appropriate JSON data required for creating folders and pdfs. After JSON from the website we create our JSON with keeping teams as the main object and from there, we create files and then pdfs (using the [template.pdf](https://github.com/blank0826/Mini-Web-Apps/blob/master/Cric-Info%20Extractor/Template.pdf)) that hold the record of the match.
 
+Created using **JavaScript**
+
 ## Screenshots
 ### <ins>Folders of Each Team</ins>
 <img src="https://user-images.githubusercontent.com/33955028/140860482-52f9ce83-f958-49bd-8926-62ec9bb2af1c.png" width="550" height="250">
@@ -37,6 +39,8 @@ npm init
 # B. Hackerrank Automation
 ## Description
 This web app is automated to add moderators to your competition using **puppeteer**. This logs into your Hackerrank account and will add a moderator to all the competitions created by you.
+
+Created using **JavaScript**
 
 ## Local Setup
 ### <ins>Pre-requisites</ins>
