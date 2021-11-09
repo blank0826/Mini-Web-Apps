@@ -10,8 +10,12 @@ We recieve the HTML and getthe appropriate JSON data required for creating folde
 <img src="https://user-images.githubusercontent.com/33955028/140860482-52f9ce83-f958-49bd-8926-62ec9bb2af1c.png" width="550" height="250">
 
 ### <ins>PDF for Each Match for Respective Team</ins>
-<img src="https://user-images.githubusercontent.com/33955028/140860697-bbcf1880-b309-4feb-a53c-aaff4543e29a.png" width="550" height="250">
-(*Data shown are the matches played by Team INDIA)*
+<img src="https://user-images.githubusercontent.com/33955028/140860697-bbcf1880-b309-4feb-a53c-aaff4543e29a.png" width="600" height="250">
+
+*(Data shown are the matches played by Team INDIA)*
+
+### <ins>PDF for Match IND V/S AFG</ins>
+<img src="https://user-images.githubusercontent.com/33955028/140863355-be499d91-e3ec-4b37-98cb-8f068dd22eb2.png" width="600" height="250">
 
 ## Local Setup
 ### <ins>Pre-requisites</ins>
@@ -19,11 +23,15 @@ An IDE with support of JSON, HTML.
 
 ### <ins>Execution</ins>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Pull the code and open it on your IDE.<br />
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In the terminal, add 
+
 ```
 npm init
 ```
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will get all your required modules.<br />
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Run [Main.js](https://github.com/blank0826/Mini-Web-Apps/blob/master/Cric-Info%20Extractor/Main.js) and it will create the folders and PDFs in the directory where current program is saved.
 
 # B. Hackerrank Automation
@@ -36,11 +44,14 @@ An IDE with support of JSON, HTML.
 
 ### <ins>Execution</ins>
 1. Pull the code and open it on your IDE.<br />
+
 2. In the terminal, write
 ```
 npm init
 ```
-This will get all your required modules.<br />
+
+   This will get all your required modules.<br />
+
 3. In the config.json enter you own details in the form
 ```
 {
@@ -50,3 +61,6 @@ This will get all your required modules.<br />
 }
 ```
 4. Run [automation.js](https://github.com/blank0826/Mini-Web-Apps/blob/master/HackerrankAutomation/automation.js), this will open the browser show you logging in and will add all competetions with your mentioned moderator.
+
+# Contact
+## [Aditya Srivastava](mailto:aditya26052002@gmail.com?subject=GitHub)
