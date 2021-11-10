@@ -1,5 +1,5 @@
 # <ins>Mini-Web-Apps</ins>
-# A. Cric-Info Extractor
+# [Cric-Info Extractor](https://github.com/blank0826/Mini-Web-Apps/tree/master/Cric-Info%20Extractor)
 ## Description
 This web app extracts information of matches from the website [CricInfo](https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results) and then creates a folder for each team with pdfs for every match played by the respective team.
 
@@ -36,7 +36,7 @@ npm init
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Run [Main.js](https://github.com/blank0826/Mini-Web-Apps/blob/master/Cric-Info%20Extractor/Main.js) and it will create the folders and PDFs in the directory where current program is saved.
 
-# B. Hackerrank Automation
+# [Hackerrank Automation](https://github.com/blank0826/Mini-Web-Apps/tree/master/HackerrankAutomation)
 ## Description
 This web app is automated to add moderators to your competition using **puppeteer**. This logs into your Hackerrank account and will add a moderator to all the competitions created by you.
 
